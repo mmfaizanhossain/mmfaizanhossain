@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Faizan 👋
 
-<!--
-**mmfaizanhossain/mmfaizanhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics engineer working on **robotics, embedded systems and motor control**. B.E., Kyoto University of Advanced Science (2026). Based in New York.
 
-Here are some ideas to get you started:
+- 🤖 Building: ROS 2 navigation (SLAM + Nav2) on my rocker-bogie rover
+- 🔧 Comfortable with: STM32 / nRF52 firmware, C/C++, Python, ROS 2, OpenCV, PCB design (Altium), lab bring-up
+- 📄 First-author paper at IEEE GCCE 2025 (wearable smart bandage)
+- 🗣️ English · বাংলা · 日本語 (JLPT N2)
+- 📫 [LinkedIn](https://www.linkedin.com/in/faizan-hossain/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured projects
+
+| Project | What it shows |
+|---|---|
+| [Rocker-bogie rover](https://github.com/mmfaizanhossain/Rocker-bogie) | ROS 2 on a Raspberry Pi + STM32 motor control over serial; YOLOv8 and OpenCV vision; IMU, ultrasonic and IR sensing |
+| [Natural scene classification](https://github.com/mmfaizanhossain/Natural-scene-classification) | VGG16 transfer learning, six-class image classifier with full evaluation (confusion matrix, ROC/AUC) |
